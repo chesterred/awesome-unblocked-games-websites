@@ -6,7 +6,7 @@ Unblocked websites where you can play fun games that work even if your school or
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📌 Table of Contents (快速查找)
+## 📌 Table of Contents 
 
 - [Why Do We Need Unblocked Game Websites?](#why-do-we-need-unblocked-game-websites)
 - [Category 1: The Quick-Play Zone (Super Fast Fun)](#category-1-the-quick-play-zone-super-fast-fun)
