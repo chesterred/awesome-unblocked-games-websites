@@ -42,6 +42,7 @@ Look at the **Best Feature** and **Disguise Level** to find the perfect site for
 | **Monkey GG 2** | `http://monkeygg2.github.io/` | GitHub Pages | **QUICK PLAY:** Simple, addictive games for a very short break. | **Low** (Simple Hub) |
 | **SPEW 45** | `http://spew45.github.io/` | GitHub Pages | **OLD-SCHOOL RELIABILITY:** An older, basic site that often avoids new filter updates. | **Low** (Classic Archive) |
 | **FAF Games** | *Implied `github.io` host* | GitHub Pages | **VARIOUS:** Known for having a wide, random selection of popular titles. | **Medium** (General Archive) |
+| **Monkey Mart Hub** | `https://monkeymarthub.com/monkey-mart-unblocked` | Cloudflare Pages | **GAME SPECIFIC:** Dedicated Monkey Mart unblocked page — full game, no ads blocking gameplay, works on school networks. Includes tips and guides. | **Medium** (Clean Game Site) |
 | **Only Games** | *Implied `github.io` host* | GitHub Pages | **EASY NAME:** Simple name, simple site, focused only on letting you play. | **Low** (Simple Archive) |
 
 ---
