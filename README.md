@@ -23,6 +23,7 @@ Look at the **Best Feature** and **Disguise Level** to find the perfect site for
 
 | Website Name | Link (URL) | Hosting Platform | Focus / Best Feature | Disguise Level |
 | :--- | :--- | :--- | :--- | :--- |
+| **Blooket1 Unblocked Games** | `https://blooket1.com/` / `https://blooket1.pages.dev/` | Cloudflare Pages & Custom Mirrors | **STEALTH & 60 FPS:** 127+ HTML5/WebGL games (*Slope*, *Retro Bowl*, *Rocket League 2D*, *Snow Rider 3D*) with built-in `about:blank` launcher, Panic Key, and Google Docs tab disguise. | **Ultra High** (Built-in Tab Cloak + `about:blank`) |
 | **Classroom 6x** | `https://sites.google.com/view/classroom6x` | Google Sites | **SECRET AGENT:** Designed to look exactly like an online classroom tool. | **High** (Perfect Disguise) |
 | **3KH0 Projects** | `https://sites.google.com/view/3kh0projects` | Google Sites | **ARCHIVE KING:** Massive library, often has a cool 'cloaking' button. | **High** (Large & Smart) |
 | **Duck Math** | `http://duckmath.github.io/` | GitHub Pages | **SPEED:** Super fast loading, great for quick breaks. | **Medium** (Disguised as Math) |
